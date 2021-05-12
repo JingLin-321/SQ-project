@@ -17,7 +17,7 @@
     "js-md5": "^0.7.3",
     "moment": "^2.24.0",
     "qs": "^6.8.0",
-    "swiper": "^3.4.2",
+    "swiper": "^6.5.1",
     "vue": "^2.6.10",
     "vue-axios": "^2.1.4",
     "vue-router": "^3.0.3",
@@ -39,7 +39,7 @@
     "less-loader": "^5.0.0",
     "node-sass": "^4.12.0",
     "sass-loader": "^7.3.1",
-    "swiper": "^4.5.0",
+    "swiper": "^6.5.1",
     "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
